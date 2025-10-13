@@ -128,24 +128,25 @@
 ## 🧩 Folder Structure
 
 mindvitals/
+├── README.md
 ├── data_pipeline/
 │   ├── ingest/
 │   ├── preprocess/
 │   └── feature_engineering/
 ├── models/
-│   ├── state_score/
 │   ├── stress_predictor/
-│   └── recommender/
+│   ├── sleep_quality/
+│   └── intervention_recommender/
 ├── api/
 │   └── app.py
+├── dashboards/
+│   └── streamlit_app.py
 ├── mlops/
 │   ├── airflow_dags/
 │   ├── mlflow/
 │   └── monitoring/
-├── dashboards/
-│   └── streamlit_app.py
 └── docs/
-    ├── architecture.png
+    ├── architecture_diagram.png
     └── datasets.md
 
 ---
