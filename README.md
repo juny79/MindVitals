@@ -125,6 +125,31 @@
 
 ---
 
+## 🧩 Folder Structure
+
+mindvitals/
+├── data_pipeline/
+│   ├── ingest/
+│   ├── preprocess/
+│   └── feature_engineering/
+├── models/
+│   ├── state_score/
+│   ├── stress_predictor/
+│   └── recommender/
+├── api/
+│   └── app.py
+├── mlops/
+│   ├── airflow_dags/
+│   ├── mlflow/
+│   └── monitoring/
+├── dashboards/
+│   └── streamlit_app.py
+└── docs/
+    ├── architecture.png
+    └── datasets.md
+
+---
+
 ## 🔐 Ethics & Privacy
 
 - **비진단용 웰니스 서비스**로 의료행위 아님 명시  
