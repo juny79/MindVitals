@@ -195,9 +195,3 @@ MIT License
 > MindVitals: AI-Driven Mind-Body State Prediction Using Wearable Biosignals (2025)
 
 ---
-
-=======
-![Architecture](docs/architecture_diagram.png)
-
-See full README template in the repository root of your working copy.
->>>>>>> 217e251 (Initialize MindVitals scaffold)
