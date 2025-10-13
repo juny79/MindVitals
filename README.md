@@ -1,5 +1,6 @@
 # 🧘‍♀️ MindVitals — AI-Driven Mindfulness & Health State Platform
 
+<<<<<<< HEAD
 > **“Measure your mind through your body.”**  
 > 스마트워치·스마트폰 생체데이터로 마음의 상태를 읽고,  
 > 명상을 통해 회복을 설계하는 인공지능 기반 건강관리 서비스.
@@ -195,3 +196,8 @@ MIT License
 
 ---
 
+=======
+![Architecture](docs/architecture_diagram.png)
+
+See full README template in the repository root of your working copy.
+>>>>>>> 217e251 (Initialize MindVitals scaffold)

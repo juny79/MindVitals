@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.env.*
+dist/
+build/
+*.egg-info/
+
+# Data/Artifacts
+mlruns/
+mlflow.db
+data/
+logs/
+*.parquet
+*.csv
+*.sqlite
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Airflow (later)
+airflow/*
+!airflow/README.md

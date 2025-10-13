@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+numpy
+pandas
+polars
+scikit-learn
+lightgbm
+xgboost
+mlflow
+evidently
+prometheus-client
+python-dotenv
+streamlit
+requests
