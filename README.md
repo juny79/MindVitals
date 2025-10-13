@@ -181,11 +181,11 @@ MIT License
 
 ## 👤 Author & Contact
 
-**Author:** [Your Name]  
+**Author:** [Park JunYoung]  
 **AI Partner:** ChatGPT-5  
-**Email:** your.email@example.com  
+**Email:** quriquri7@gmail.com  
 **Notion:** https://notion.so/mindvitals  
-**GitHub:** https://github.com/your-repo-name  
+**GitHub:** https://github.com/MindVitals  
 
 ---
 
