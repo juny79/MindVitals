@@ -127,7 +127,10 @@
 
 ## 🧩 Folder Structure
 
-mindvitals/
+<details>
+  <summary><b>🧩 Folder Structure (click to expand)</b></summary>
+
+<pre><code>mindvitals/
 ├── README.md
 ├── data_pipeline/
 │   ├── ingest/
@@ -148,6 +151,8 @@ mindvitals/
 └── docs/
     ├── architecture_diagram.png
     └── datasets.md
+</code></pre>
+</details>
 
 ---
 
