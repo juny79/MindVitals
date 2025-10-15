@@ -29,3 +29,8 @@ logs/
 # Airflow (later)
 airflow/*
 !airflow/README.md
+
+# Airflow logs and database
+mlops/airflow_logs/
+mlops/airflow_db/
+
