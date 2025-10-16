@@ -44,6 +44,7 @@ services:
       retries: 10
 
   airflow-init:
+    image: mindvitals-airflow:latest
     build:
       context: ./mlops/airflow_dags
       dockerfile: Dockerfile
@@ -60,6 +61,7 @@ services:
     command: bash -c "airflow db init && airflow users create --username admin --password admin --firstname admin --lastname user --role Admin --email admin@example.com || true"
 
   airflow-webserver:
+    image: mindvitals-airflow:latest
     build:
       context: ./mlops/airflow_dags
       dockerfile: Dockerfile
@@ -78,6 +80,7 @@ services:
     command: webserver
 
   airflow-scheduler:
+    image: mindvitals-airflow:latest
     build:
       context: ./mlops/airflow_dags
       dockerfile: Dockerfile
